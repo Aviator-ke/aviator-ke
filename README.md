@@ -1,6 +1,6 @@
 # Top Strategies to Win Aviator Game in Kenya
 
-When Aviator entered the gambling market in 2017, few people could predict that it was going to become so wildly popular. The moment it did, several large Kenyan casinos included it on their platforms, and now every Kenyan can access it via the **(link)[https://aviator.me.ke]**.
+When Aviator entered the gambling market in 2017, few people could predict that it was going to become so wildly popular. The moment it did, several large Kenyan casinos included it on their platforms, and now every Kenyan can access it via the **(https://aviator.me.ke)[link]**.
 
 If you’ve never tried playing Aviator before, hold on. Learn more about it, and then make an informed decision.   
 
