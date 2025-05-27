@@ -21,7 +21,7 @@ You can cash out early, or you can wait for a while. The latter option will be m
 Aviator has some extra features that you might not be able to notice right away. The first one is the auto-betting. That’s right, you can place automatic bets — in other words, you can shift the settings to make the system withdraw your account from the round. 
 
 For instance, you can tell it to cash out when the multiplier hits 1.8x, and it will keep doing it for as long as you want.
-There are also player stats you might be interested in. 
+You'll also find player stats on the **[site](https://aviator.me.ke)** that might catch your interest.
 
 Open the table: it’s usually located under the screen with Aviator. Look at the stats for the last 10 or so matches, and gain insights into round duration, the point at which different players walk out, how much they win, etc.  
 
@@ -34,6 +34,7 @@ There are some Aviator tricks players can use to diversify and improve their exp
 ### Finish Most Rounds Early 
 
 This strategy is a favorite of new players and people who appreciate their safety and don't want to take huge risks. When you start playing Aviator, wait for a couple of seconds and then cash out. Do it again and again. 
+
 This way, you will keep winning with regular frequency. Sure, you won't win all that much, but your winnings will keep accumulating, and at some point, you will be able to feel like a real victor.
 
 ### The Martingale Aviator Strategy 
@@ -42,7 +43,9 @@ While this strategy tends to show effective results, you still have to be carefu
 
 Let's say you bet KES 10 and won. That's great — now you can repeat your bet and try winning in another round. However, if you lose it, you have to bet KES 20 next. Did you lose again? Bet KES 40. 
 
-Most likely, you are going to win at some point, and your victory is going to cover all the expenses you have already sustained. Beware, though, because the Martingale strategy is extremely risky. It's not a guarantee that you will win. It is likely, yes, but who knows, you might get into a losing streak, and this won't be satisfying to you or your budget.
+Most likely, you are going to win at some point, and your victory is going to cover all the expenses you have already sustained. Beware, though, because the Martingale strategy is extremely risky. 
+
+It's not a guarantee that you will win. It is likely, yes, but who knows, you might get into a losing streak, and this won't be satisfying to you or your budget.
 
 ### Double-Bet Strategy 
 
@@ -55,4 +58,4 @@ You can also use the double bet feature as a part of your strategy. For example,
 
 This will let you walk away with one definite small win and one potential big win. Pay attention to the risks, though, as they are still substantial. Use this strategy only if you are prepared to lose some money. 
 
-If you aren’t, consider trying the Aviator demo version: it is just as fun, but it comes with zero risks.  
+If you aren’t, consider trying the **[Aviator Demo](https://aviator.me.ke)** version: it is just as fun, but it comes with zero risks.  
